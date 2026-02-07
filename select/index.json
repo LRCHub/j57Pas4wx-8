@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ガリレオ・ガール",
+  "base_artist": "ノーナ・リーヴス",
+  "createdAt": "2026-02-07T12:01:35.832413Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガリレオ・ガール",
+      "artist": "NONA REEVES",
+      "has_synced": false,
+      "path": "select/01_ガリレオ・ガール_NONA_REEVES.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガリレオ・ガール",
+      "artist": "Nona Reeves",
+      "has_synced": false,
+      "path": "select/pl_01_ガリレオ・ガール_Nona_Reeves.txt"
+    }
+  ]
+}
